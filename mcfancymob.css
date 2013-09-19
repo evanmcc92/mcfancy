@@ -1,0 +1,169 @@
+/* Emily Leung picked the color scheme for this*/
+body {
+  font-family: helvetica, arial, "Lucida Grande", sans-serif;
+  margin: 0;
+  padding: 0;
+  }
+#box, footer, #maintext, #mainnav, #contactbody, th, td, tr, table {
+  }
+footer {
+  background: none repeat scroll #B38481;
+  text-align: right;
+  margin: 0;
+  padding: 1em;
+  clear: both;
+  color: #7F5A58;
+  font-size: 10px;
+  }
+fieldset {
+  border: medium none;
+  position: relative;
+  }
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.5em;
+  padding: 10px 0;
+  position: relative;
+  }
+h1 img {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  margin-top: 10px; 
+  height: 73.5px;
+  width: 63px;
+  }
+h2 {
+  padding: 5px;
+  font-size: 1.25em;
+  }
+p {
+  padding: 10px;
+  padding-right:1em;
+  }
+#indexvideo {
+  position: relative;
+  padding: 0 10px 0 3px;
+  }
+#mcfancytitle {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  padding-top: 0;
+  padding-bottom: 6em;
+  }
+legend {
+  font-weight: bold;
+  }
+table {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  }
+td {
+  padding: 1em;
+  vertical-align: top;
+  display: inline-block;
+  }
+td iframe {
+  width: 275px;
+  height: 158px;
+  }
+#photo td {
+  padding: 1em;
+  vertical-align: middle;
+  }
+#message {
+  height: 100px;
+  width: 250px;
+  }
+th {
+  border: 1px solid black;
+  padding: 0.25em;
+  text-align: center;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  display: none;
+  }
+.challengespic {
+  margin-left: auto;
+  margin-right: auto;
+  }
+#shadowbox {
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 0.25em 23.5em 0.25em 23.5em;
+  text-align: center;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  display: none;
+  }
+#box {
+  background: none repeat scroll white;
+  border: 5px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  }
+#indexvideo {
+  text-align: center;
+  }
+#buttons {
+  position: relative;
+  }
+#contactbody {
+  width: 100%;
+  }
+#emailbody {
+  display: block;
+  }
+#mainnav {
+  background: none repeat scroll #8A4117;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+  }
+#mainnav li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0.5em;
+  }
+#maintext {
+  }
+#rcimageone {
+  text-align: left;
+  float: left;
+  padding-left: 0em;
+  padding-right: 1em;
+  padding-bottom: 10px;
+  }
+#rcimagetwo {
+  text-align: right;
+  float: right;
+  padding-left: 1em;
+  padding-bottom: 10px;
+  }
+#photo {
+  text-align: center;
+  }
+#videos {
+  text-align: center;
+  }
+footer a:link {
+  color: #7F5A58;
+  }
+footer a:visited {
+  color: #FFFFFF;
+  }
+footer a:hover {
+  color: #FFFFFF;
+  }
+#mainnav a:hover {
+  color: #FFFFFF;
+  }
+#mainnav a:link {
+  color: #FFFFFF;
+  }
+#mainnav a:visited {
+  color: #FFFFFF;
+  }

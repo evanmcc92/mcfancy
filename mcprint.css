@@ -1,0 +1,138 @@
+body {
+  font-family: helvetica, arial, "Lucida Grande", sans-serif;
+  }
+footer {
+  text-align: right;
+  margin: 0;
+  padding: 1em;
+  clear: both;
+  font-size: 10px;
+  display: none;
+  }
+nav {
+  display: none;
+  }
+fieldset {
+  border: medium none;
+  position: relative;
+  }
+#shadowbox {
+  text-align: center;
+  font-weight: bold;
+  padding: 0.25em 23.5em 0.25em 23.5em;
+  }
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.75em;
+  position: relative;
+  }
+iframe {
+  display: none;
+  }
+img h1 {
+  padding-left: 1em;
+  padding-right: 1em;
+  }
+p {
+  padding: 10px;
+  }
+#indexvideo {
+  text-align: center;
+  }
+#mcfancytitle {
+  margin: 4em;
+  bottom: 1em;
+  position: relative;
+  }
+legend {
+  font-weight: bold;
+  }
+table {
+  position: relative;
+  padding-right: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+td {
+  padding: 1em;
+  vertical-align:top;
+  }
+#photo td {
+  padding: 1em;
+  vertical-align: middle;
+  }
+th {
+  padding: .25em;
+  text-align: center;
+  }
+#box {
+  margin: 0 auto;
+  padding: 0;
+  width: 900px;
+  }
+#buttons {
+  position: relative;
+  }
+#contactbody {
+  padding-left: 16em;
+  }
+#emailbody {
+  display: block;
+  }
+#mainnav {
+  text-align: center;
+  padding: 0.5em;
+  margin: 0;
+  }
+#mainnav li {
+  display: inline;
+  list-style-type: none;
+  padding: 1em;
+  }
+#maintext {
+  width: 900px;
+  padding-right: 2em;
+  padding-left: 1em;
+  float: left;
+  margin: 0 0 0 0;
+  }
+#rcimageone {
+  text-align: left;
+  float: left;
+  padding-left: 0em;
+  padding-right: 1em;
+  padding-bottom: 10px;
+  }
+#rcimagetwo {
+  text-align: right;
+  float: right;
+  padding-right: 2em;
+  padding-left: 1em;
+  padding-bottom: 10px;
+  }
+#photo {
+  text-align: center;
+  }
+#videos {
+  text-align: center;
+  }
+footer a:link {
+  color: black;
+  }
+footer a:visited {
+  color: black;
+  }
+footer a:hover {
+  color: black;
+  }
+#mainnav a:hover {
+  color: black;
+  }
+#mainnav a:link {
+  color: black;
+  }
+#mainnav a:visited {
+  color: black;
+  }

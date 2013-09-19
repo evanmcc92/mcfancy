@@ -1,0 +1,163 @@
+/* Emily Leung picked the color scheme for this*/
+body {
+  background-image: url('images/Wood-WhiteOak-600w.jpg');
+  background-repeat: repeat;
+  background-color: #78512D;
+  font-family: helvetica, arial, "Lucida Grande", sans-serif;
+  }
+footer {
+  background: none repeat scroll #B38481;
+  text-align: right;
+  margin: 0;
+  padding: 1em;
+  clear: both;
+  color: #7F5A58;
+  font-size: 10px;
+  }
+fieldset {
+  border: medium none;
+  position: relative;
+  }
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.75em;
+  position: relative;
+  padding: 10px 0;
+  }
+img h1 {
+  padding-left: 1em;
+  padding-right: 1em;
+  }
+p {
+  padding: 10px;
+  padding-right:1em;
+  }
+#indexvideo {
+  text-align: center;
+  }
+#indexvideo iframe {
+  width: 630px;
+  height: 315px;
+  }
+#mcfancytitle {
+  margin: 4em;
+  bottom: 1em;
+  position: relative;
+  }
+legend {
+  font-weight: bold;
+  }
+table {
+  position: relative;
+  padding-right: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+td {
+  padding: 1em;
+  vertical-align:top;
+  }
+#photo td {
+  padding: 1em;
+  vertical-align: middle;
+  }
+#message {
+  height: 200px;
+  width: 400px;
+  }
+th {
+  border: 1px solid black;
+  padding: 0.25em;
+  text-align: center;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  }
+td iframe {
+  width: 175px;
+  height: 100px;
+  }
+#shadowbox {
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 0.25em 23.5em 0.25em 23.5em;
+  text-align: center;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 8px 6px -6px black;
+  }
+#box {
+  background: none repeat scroll white;
+  margin: 0 auto;
+  padding: 0;
+  width: 900px;
+  -moz-box-shadow: 3px 3px 5px 6px black;
+  -webkit-box-shadow: 3px 3px 5px 6px black;
+  box-shadow: 3px 3px 5px 6px black;
+  }
+#buttons {
+  position: relative;
+  }
+#contactbody {
+  padding-left: 16em;
+  }
+#emailbody {
+  display: block;
+  }
+#mainnav {
+  background: none repeat scroll #8A4117;
+  text-align: center;
+  padding: 0.5em;
+  margin: 0;
+  }
+#mainnav li {
+  display: inline;
+  list-style-type: none;
+  padding: 1em;
+  }
+#maintext {
+  width: 900px;
+  padding-right: 1em;
+  padding-left: 1em;
+  margin: 0 0 0 0;
+  }
+#rcimageone {
+  text-align: left;
+  float: left;
+  padding-left: 0em;
+  padding-right: 1em;
+  padding-bottom: 10px;
+  }
+#rcimagetwo {
+  text-align: right;
+  float: right;
+  padding-right: 2em;
+  padding-left: 1em;
+  padding-bottom: 10px;
+  }
+#photo {
+  text-align: center;
+  }
+#videos {
+  text-align: center;
+  }
+footer a:link {
+  color: #7F5A58;
+  }
+footer a:visited {
+  color: #FFFFFF;
+  }
+footer a:hover {
+  color: #FFFFFF;
+  }
+#mainnav a:hover {
+  color: #FFFFFF;
+  }
+#mainnav a:link {
+  color: #FFFFFF;
+  }
+#mainnav a:visited {
+  color: #FFFFFF;
+  }
