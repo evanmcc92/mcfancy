@@ -27,8 +27,7 @@
 		<nav >
 			<ul id="mainnav">
 				<li><a href="index.html">home</a></li>
-				<li><a href="challenge.html">behind the scenes</a></li>
-				<li><a href="gallery.html">media gallery</a></li>
+				<li><a href="projects.html">projects</a></li>
 				<li><a href="contact.php">contact</a></li>
 			</ul>
 		</nav>

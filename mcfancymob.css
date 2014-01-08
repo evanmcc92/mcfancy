@@ -117,16 +117,30 @@ th {
 #emailbody {
   display: block;
   }
+#2 {
+  background-color: black;
+}
 #mainnav {
   background: none repeat scroll #8A4117;
+  text-align: center;
+  padding: 0.5em;
+  margin: 0;
+  }
+#projectnav {
+  background-color: black;
   text-align: center;
   padding: 10px;
   margin: 0;
   }
-#mainnav li {
-  display: inline-block;
+#projectnav li {
+  display: inline;
   list-style-type: none;
-  padding: 0.5em;
+  padding: 1em;
+  }
+#mainnav li {
+  display: inline;
+  list-style-type: none;
+  padding: 1em;
   }
 #maintext {
   }
@@ -165,5 +179,14 @@ footer a:hover {
   color: #FFFFFF;
   }
 #mainnav a:visited {
+  color: #FFFFFF;
+  }
+#projectnav a:hover {
+  color: #FFFFFF;
+  }
+#projectnav a:link {
+  color: #FFFFFF;
+  }
+#projectnav a:visited {
   color: #FFFFFF;
   }
